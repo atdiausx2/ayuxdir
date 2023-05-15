@@ -1,22 +1,789 @@
-<?xml version='1.0' encoding='utf-8' ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <root>
+<!-- TRIJ,U FAZIU INVERTORIAI -->
+<!-- EA01A_30.XML -->
 <item>
- <name>
+	<name>
 Preces kods: EA01A_30
 Invertors Growatt 3 fāžu 3kW MOD 3000TL3-XH</name>
- <link>https://www.saulesparki.lv/product/solarais-invertors-growatt-3-fazu-mod-3000tl3-xh/</link>
- <price>1.161,58</price>
- <image>https://www.saulesparki.lv/wp-content/uploads/2022/11/MOD_3-15KTL3-X_-_Copy-removebg-preview.jpg</image>
- <category_full> INVERTORI &gt;&gt; MĀJSAIMNIECĪBU INVERTORI&gt;&gt; 3 FĀŽU MĀJSAIMNIECĪBU INVERTORI</category_full>
- <category_link>https://www.saulesparki.lv/veikals/invertori/majsaimniecibu-invertori/3-fazu-majsaimniecibu-invertori/</category_link>
- <brand>Growatt</brand>
- <model><![CDATA[3000TL3-XH]]></model> 
- <color>White</color> 
- <!-- <mpn>SM-G950x`F</mpn>
- <gtin>0644391356614,644391356614</gtin> -->
- <in_stock>1</in_stock>
- <used>0</used>
- <adult>no</adult>
+	<link>https://www.saulesparki.lv/product/solarais-invertors-growatt-3-fazu-mod-3000tl3-xh/</link>
+	<price>1.161,58</price>
+	<image>https://www.saulesparki.lv/wp-content/uploads/2022/11/MOD_3-15KTL3-X_-_Copy-removebg-preview.jpg</image>
+	<category_full> INVERTORI &gt;&gt; MĀJSAIMNIECĪBU INVERTORI&gt;&gt; 3 FĀŽU MĀJSAIMNIECĪBU INVERTORI</category_full>
+	<category_link>https://www.saulesparki.lv/veikals/invertori/majsaimniecibu-invertori/3-fazu-majsaimniecibu-invertori/</category_link>
+	<brand>Growatt</brand>
+	<model><![CDATA[3000TL3-XH]]></model> 
+	<color>White</color> 
+	<!-- <mpn>SM-G950x`F</mpn>
+	<gtin>0644391356614,644391356614</gtin> -->
+	<in_stock>1</in_stock>
+	<used>0</used>
+	<adult>no</adult>
 </item>
 
-</root>
+<!-- EA01A_31.XML -->
+
+<item>
+	<name>
+Invertors Growatt 3 fāžu 4kW MOD 4000TL3-XH</name>
+	<link>https://www.saulesparki.lv/product/solarais-invertors-growatt-3-fazu-mod-4000tl3-xh/</link>
+	<price>1.193,08</price>
+	<image>https://www.saulesparki.lv/wp-content/uploads/2022/11/MOD_3-15KTL3-X_-_Copy-removebg-preview.jpg</image>
+	<category_full> INVERTORI &gt;&gt; MĀJSAIMNIECĪBU INVERTORI&gt;&gt; 3 FĀŽU MĀJSAIMNIECĪBU INVERTORI</category_full>
+	<category_link>https://www.saulesparki.lv/veikals/invertori/majsaimniecibu-invertori/3-fazu-majsaimniecibu-invertori/</category_link>
+	<brand>Growatt</brand>
+	<model><![CDATA[4000TL3-XH]]></model> 
+	<color>White</color> 
+	<!-- <mpn>SM-G950x`F</mpn>
+	<gtin>0644391356614,644391356614</gtin> -->
+	<in_stock>1</in_stock>
+	<used>0</used>
+	<adult>no</adult>
+</item>
+
+<!-- EA01A_32 -->
+<item>
+	<name>Invertors Growatt 3 fāžu 5kW MOD 5000TL3-XH</name>
+	<link>https://www.saulesparki.lv/product/solarais-invertors-growatt-3-fazu-mod-5000tl3-xh/</link>
+	<price>1.279,74</price>
+	<image>https://www.saulesparki.lv/wp-content/uploads/2022/11/MOD_3-15KTL3-X_-_Copy-removebg-preview.jpg</image>
+	<category_full> INVERTORI &gt;&gt; MĀJSAIMNIECĪBU INVERTORI&gt;&gt; 3 FĀŽU MĀJSAIMNIECĪBU INVERTORI</category_full>
+	<category_link>https://www.saulesparki.lv/veikals/invertori/majsaimniecibu-invertori/3-fazu-majsaimniecibu-invertori/</category_link>
+	<brand>Growatt</brand>
+	<model><![CDATA[5000TL3-XH]]></model> 
+	<color>White</color> 
+	<!-- <mpn>SM-G950x`F</mpn>
+	<gtin>0644391356614,644391356614</gtin> -->
+	<in_stock>1</in_stock>
+	<used>0</used>
+	<adult>no</adult>
+</item>
+
+<!-- EA01A_08 -->
+
+<item>
+	<name>Invertors Huawei 3 fāžu 3kW SUN 2000-3KTL-M1</name>
+	<link>https://www.saulesparki.lv/product/solarais-invertors-huawei-3-fazu-sun-2000-3ktl-m1/</link>
+	<price>1.307,37</price>
+	<image>https://www.saulesparki.lv/wp-content/uploads/2022/11/SUN-2000-3KTL-M1.jpg</image>
+	<category_full> INVERTORI &gt;&gt; MĀJSAIMNIECĪBU INVERTORI&gt;&gt; 3 FĀŽU MĀJSAIMNIECĪBU INVERTORI</category_full>
+	<category_link>https://www.saulesparki.lv/veikals/invertori/majsaimniecibu-invertori/3-fazu-majsaimniecibu-invertori/</category_link>
+	<brand>Huawei</brand>
+	<model><![CDATA[3KTL-M1]]></model> 
+	<color>White</color> 
+	<!-- <mpn>SM-G950x`F</mpn>
+	<gtin>0644391356614,644391356614</gtin> -->
+	<in_stock>1</in_stock>
+	<used>0</used>
+	<adult>no</adult>
+</item>
+
+<!--  -->
+
+<item>
+	<name>Invertors Growatt 3 fāžu 6kW MOD 6000TL3-XH</name>
+	<link>https://www.saulespark    i.lv/product/solarais-invertors-growatt-3-fazu-mod-6000tl3-xh/</link>
+	<price>1.319,14</price>
+	<image>https://www.saulesparki.lv/wp-content/uploads/2022/11/MOD_3-15KTL3-X_-_Copy-removebg-preview.jpg</image>
+	<category_full> INVERTORI &gt;&gt; MĀJSAIMNIECĪBU INVERTORI&gt;&gt; 3 FĀŽU MĀJSAIMNIECĪBU INVERTORI</category_full>
+	<category_link>https://www.saulesparki.lv/veikals/invertori/majsaimniecibu-invertori/3-fazu-majsaimniecibu-invertori/</category_link>
+	<brand>Growatt</brand>
+	<model><![CDATA[EA01A_33]]></model> 
+	<color>White</color> 
+	<!-- <mpn>SM-G950x`F</mpn>
+	<gtin>0644391356614,644391356614</gtin> -->
+	<in_stock>1</in_stock>
+	<used>0</used>
+	<adult>no</adult>
+</item>
+<!-- VIENO FAZIO INVENTORIUS  -->
+<!-- reces kods: EA01A_28 -->
+<item>
+	<name>Invertors Growatt 1 fāžu 3.6kW MIN 3600TL-XH</name>
+	<link>https://www.saulesparki.lv/product/solarais-invertors-growatt-1-fazu-min-3600tl-xh/</link>
+	<price>880</price>
+	<image>https://www.saulesparki.lv/wp-content/uploads/2022/11/MIN-25-6000.jpg</image>
+	<category_full> INVERTORI &gt;&gt; MĀJSAIMNIECĪBU INVERTORI&gt;&gt; 1 FĀŽU MĀJSAIMNIECĪBU INVERTORII</category_full>
+	<category_link>https://www.saulesparki.lv/veikals/invertori/majsaimniecibu-invertori/1-fazu-majsaimniecibu-invertori/</category_link>
+	<brand>Growatt</brand>
+	<model><![CDATA[EA01A_28]]></model> 
+	<color>White</color> 
+	<!-- <mpn>SM-G950x`F</mpn>
+	<gtin>0644391356614,644391356614</gtin> -->
+	<in_stock>0</in_stock>
+	<used>0</used>
+	<adult>no</adult>
+</item>
+<!-- EA01A_01 -->
+<item>
+	<name>Invertors Huawei 1 fāžu 2kW SUN 2000 – 2KTL-L1</name>
+	<link>https://www.saulesparki.lv/product/solarais-invertors-huawei-1-fazu-sun-2000-2ktl-l1/</link>
+	<price>791,1</price>
+	<image>https://www.saulesparki.lv/wp-content/uploads/2022/11/SUN-2000-%E2%80%93-2KTL-L1_1_pic.jpg</image>
+	<category_full> INVERTORI &gt;&gt; MĀJSAIMNIECĪBU INVERTORI&gt;&gt; 1 FĀŽU MĀJSAIMNIECĪBU INVERTORII</category_full>
+	<category_link>https://www.saulesparki.lv/veikals/invertori/majsaimniecibu-invertori/1-fazu-majsaimniecibu-invertori/</category_link>
+	<brand>Huawei</brand>
+	<model><![CDATA[EA01A_01]]></model> 
+	<color>White</color> 
+	<!-- <mpn>SM-G950x`F</mpn>
+	<gtin>0644391356614,644391356614</gtin> -->
+	<in_stock>0</in_stock>
+	<used>0</used>
+	<adult>no</adult>
+</item>
+
+
+<item>
+	<name>Invertors Growatt 1 fāžu 3.6kW MIN 3600TL-XH</name>
+	<link>https://www.saulesparki.lv/product/solarais-invertors-huawei-1-fazu-sun-2000-3ktl-l1/</link>
+	<price>931,57</price>
+	<image>https://www.saulesparki.lv/wp-content/uploads/2022/11/MIN-25-6000.jpg</image>
+	<category_full> INVERTORI &gt;&gt; MĀJSAIMNIECĪBU INVERTORI&gt;&gt; 1 FĀŽU MĀJSAIMNIECĪBU INVERTORII</category_full>
+	<category_link>https://www.saulesparki.lv/veikals/invertori/majsaimniecibu-invertori/1-fazu-majsaimniecibu-invertori/</category_link>
+	<brand>Growatt</brand>
+	<model><![CDATA[EA01A_02]]></model> 
+	<color>White</color> 
+	<in_stock>0</in_stock>
+	<used>0</used>
+	<adult>no</adult>
+</item>
+<!-- EA01A_29 -->
+<item>
+	<name>Invertors Growatt 1 fāžu MIN 4600TL-XH</name>
+	<link>https://www.saulesparki.lv/product/solarais-invertors-growatt-1-fazu-min-4600tl-xh/</link>
+	<price>1.007,00</price>
+	<image>https://www.saulesparki.lv/wp-content/uploads/2022/11/MIN-25-6000-1.jpg</image>
+	<category_full> INVERTORI &gt;&gt; MĀJSAIMNIECĪBU INVERTORI&gt;&gt; 1 FĀŽU MĀJSAIMNIECĪBU INVERTORII</category_full>
+	<category_link>https://www.saulesparki.lv/veikals/invertori/majsaimniecibu-invertori/1-fazu-majsaimniecibu-invertori/</category_link>
+	<brand>Growatt</brand>
+	<model><![CDATA[EA01A_29]]></model> 
+	<color>White</color> 
+	<!-- <mpn>SM-G950x`F</mpn>
+	<gtin>0644391356614,644391356614</gtin> -->
+	<in_stock>0</in_stock>
+	<used>0</used>
+	<adult>no</adult>
+</item>
+
+<item>
+	<name>Invertors Huawei 1 fāžu 3.68kW SUN 2000 – 3.68KTL-L1
+</name>
+	<link>https://www.saulesparki.lv/product/solarais-invertors-huawei-1-fazu-sun-2000-3-68ktl-l1/</link>
+	<price>1.095,36</price>
+	<image>https://www.saulesparki.lv/wp-content/uploads/2022/11/SUN-2000-%E2%80%93-3.68KTL-L1_1pic.jpg</image>
+	<category_full> INVERTORI &gt;&gt; MĀJSAIMNIECĪBU INVERTORI&gt;&gt; 1 FĀŽU MĀJSAIMNIECĪBU INVERTORII</category_full>
+	<category_link>https://www.saulesparki.lv/veikals/invertori/majsaimniecibu-invertori/1-fazu-majsaimniecibu-invertori/</category_link>
+	<brand>Growatt</brand>
+	<model><![CDATA[EA01A_03]]></model> 
+	<color>White</color> 
+	<in_stock>1</in_stock>
+	<used>0</used>
+	<adult>no</adult>
+</item>
+<!-- EA01A_04 -->
+<item>
+	<name>Invertors Huawei 1fāžu 4kW SUN 2000 – 4KTL-L1
+</name>
+	<link>https://www.saulesparki.lv/product/solarais-invertors-huawei-1-fazu-sun-2000-4ktl-l1/</link>
+	<price>1.134,38</price>
+	<image>https://www.saulesparki.lv/wp-content/uploads/2022/11/SUN-2000-%E2%80%93-3.68KTL-L1_1pic.jpg</image>
+	<category_full> INVERTORI &gt;&gt; MĀJSAIMNIECĪBU INVERTORI&gt;&gt; 1 FĀŽU MĀJSAIMNIECĪBU INVERTORII</category_full>
+	<category_link>https://www.saulesparki.lv/veikals/invertori/majsaimniecibu-invertori/1-fazu-majsaimniecibu-invertori/</category_link>
+	<brand>Growatt</brand>
+	<model><![CDATA[EA01A_04]]></model> 
+	<color>White</color> 
+	<in_stock>1</in_stock>
+	<used>0</used>
+	<adult>no</adult>
+</item>
+
+<!-- EA01A_05 -->
+
+<item>
+	<name>Invertors Huawei 1 fāžu 4.6kW SUN 2000 – 4.6KTL-L1
+</name>
+	<link>https://www.saulesparki.lv/product/solarais-invertors-huawei-1-fazu-sun-2000-4-6ktl-l1/</link>
+	<price>1.220,16</price>
+	<image>https://www.saulesparki.lv/wp-content/uploads/2022/11/SUN-2000-%E2%80%93-3.68KTL-L1_1pic.jpg</image>
+	<category_full> INVERTORI &gt;&gt; MĀJSAIMNIECĪBU INVERTORI&gt;&gt; 1 FĀŽU MĀJSAIMNIECĪBU INVERTORII</category_full>
+	<category_link>https://www.saulesparki.lv/veikals/invertori/majsaimniecibu-invertori/1-fazu-majsaimniecibu-invertori/</category_link>
+	<brand>Growatt</brand>
+	<model><![CDATA[EA01A_05]]></model> 
+	<color>White</color> 
+	<in_stock>0</in_stock>
+	<used>0</used>
+	<adult>no</adult>
+</item>
+
+<!-- EA01A_06 -->
+<item>
+	<name>Invertors Huawei 1 fāžu 5kW SUN 2000 – 5KTL-L1
+</name>
+	<link>https://www.saulesparki.lv/product/solarais-invertors-huawei-1-fazu-sun-2000-4-6ktl-l1/</link>
+	<price>1.235,77</price>
+	<image>https://www.saulesparki.lv/wp-content/uploads/2022/11/SUN-2000-%E2%80%93-3.68KTL-L1_1pic.jpg</image>
+	<category_full> INVERTORI &gt;&gt; MĀJSAIMNIECĪBU INVERTORI&gt;&gt; 1 FĀŽU MĀJSAIMNIECĪBU INVERTORII</category_full>
+	<category_link>https://www.saulesparki.lv/veikals/invertori/majsaimniecibu-invertori/1-fazu-majsaimniecibu-invertori/</category_link>
+	<brand>Growatt</brand>
+	<model><![CDATA[EA01A_06]]></model> 
+	<color>White</color> 
+	<in_stock>0</in_stock>
+	<used>0</used>
+	<adult>no</adult>
+</item>
+
+<!-- EA01A_07 -->
+<item>
+	<name>Invertors Huawei 1 fāžu 6kW SUN 2000 – 6KTL-L1
+</name>
+	<link>https://www.saulesparki.lv/product/invertors-huawei-1-fazu-6kw-sun-2000-6ktl-l1/</link>
+	<price>1.407,38</price>
+	<image>https://www.saulesparki.lv/wp-content/uploads/2022/11/SUN-2000-%E2%80%93-3.68KTL-L1_1pic.jpg</image>
+	<category_full> INVERTORI &gt;&gt; MĀJSAIMNIECĪBU INVERTORI&gt;&gt; 1 FĀŽU MĀJSAIMNIECĪBU INVERTORII</category_full>
+	<category_link>https://www.saulesparki.lv/veikals/invertori/majsaimniecibu-invertori/1-fazu-majsaimniecibu-invertori/</category_link>
+	<brand>Growatt</brand>
+	<model><![CDATA[EA01A_07]]></model> 
+	<color>White</color> 
+	<in_stock>0</in_stock>
+	<used>0</used>
+	<adult>no</adult>
+</item>
+
+
+<!-- PAPILDIEKĀRTAS -->
+<!-- DA01A_03] -->
+<item>
+	<name>Interneta uztvērējs Growatt Wifi-X
+</name>
+	<link>https://www.saulesparki.lv/product/interneta-uztverejs-growatt-wifi-x/</link>
+	<price>25</price>
+	<image>https://www.saulesparki.lv/wp-content/uploads/2022/11/Growatt-ShineWiFi-X-1.jpg</image>
+	<category_full> PAPILDIEKĀRTAS</category_full>
+	<category_link>https://www.saulesparki.lv/veikals/papildiekartas/</category_link>
+	<brand>Growatt</brand>
+	<model><![CDATA[DA01A_03]]></model> 
+	<color>White</color> 
+	<in_stock>1</in_stock>
+	<used>0</used>
+	<adult>no</adult>
+</item>
+<!-- DA01A_04 -->
+<item>
+	<name>Interneta uztvērējs Growatt, LAN-X
+</name>
+	<link>https://www.saulesparki.lv/product/interneta-uztverejs-growatt-lan-x/</link>
+	<price>25</price>
+	<image>https://www.saulesparki.lv/wp-content/uploads/2022/11/Growatt-ShineWiFi-X-1.jpg</image>
+	<category_full> PAPILDIEKĀRTAS</category_full>
+	<category_link>https://www.saulesparki.lv/veikals/papildiekartas/</category_link>
+	<brand>Growatt</brand>
+	<model><![CDATA[DA01A_04]]></model> 
+	<color>White</color> 
+	<in_stock>1</in_stock>
+	<used>0</used>
+	<adult>no</adult>
+</item>
+
+<item>
+	<name>Interneta uztvērējs, Huawei, Wifi Dongle,SDongleA-05
+</name>
+	<link>https://www.saulesparki.lv/product/interneta-uztverejs-huawei-wifi-donglesdonglea-05/</link>
+	<price>73</price>
+	<image>https://www.saulesparki.lv/wp-content/uploads/2022/11/Smart_Dongle_WLAN-FE-1-Kopie-1.jpg</image>
+	<category_full> PAPILDIEKĀRTAS</category_full>
+	<category_link>https://www.saulesparki.lv/veikals/papildiekartas/</category_link>
+	<brand>Growatt</brand>
+	<model><![CDATA[DA01A_04]]></model> 
+	<color>White</color> 
+	<in_stock>1</in_stock>
+	<used>0</used>
+	<adult>no</adult>
+</item>
+
+<!-- EA03H_03 -->
+<item>
+	<name>AC strāvas viedais skaitītājs, Huawei, 1 fāzes, DDSU666-H
+</name>
+	<link>https://www.saulesparki.lv/product/ac-stravas-viedais-skaititajs-huawei-1-fazes-ddsu666-h/</link>
+	<price>98.35</price>
+	<image>https://www.saulesparki.lv/wp-content/uploads/2022/11/Capture_3.jpg</image>
+	<category_full> PAPILDIEKĀRTAS</category_full>
+	<category_link>https://www.saulesparki.lv/veikals/papildiekartas/</category_link>
+	<brand>Growatt</brand>
+	<model><![CDATA[EA03H_03]]></model> 
+	<color>White</color> 
+	<in_stock>1</in_stock>
+	<used>0</used>
+	<adult>no</adult>
+</item>
+
+
+<!-- EA03H_01 -->
+<item>
+	<name>AC strāvas viedais skaitītājs, Huawei, 3 fāzes, DTSU666-H 250A
+</name>
+	<link>https://www.saulesparki.lv/product/ac-stravas-viedais-skaititajs-huawei-3-fazes-dtsu666-h-250a/</link>
+	<price>173,59</price>
+	<image>https://www.saulesparki.lv/wp-content/uploads/2022/11/huawei_smart_power_sensor_dtsu666_h_3f_250_a_bfa7.jpg</image>
+	<category_full> PAPILDIEKĀRTAS</category_full>
+	<category_link>https://www.saulesparki.lv/veikals/papildiekartas/</category_link>
+	<brand>Growatt</brand>
+	<model><![CDATA[EA03H_01]]></model> 
+	<color>White</color> 
+	<in_stock>1</in_stock>
+	<used>0</used>
+	<adult>no</adult>
+</item>
+
+<!-- DA01A_01-->
+<item>
+	<name>Interneta uztvērējs, Huawei, 4G Dongle, SDongleA-03EU
+</name>
+	<link>https://www.saulesparki.lv/product/interneta-uztverejs-huawei-4g-dongle-sdonglea-03eu/</link>
+	<price>152</price>
+	<image>https://www.saulesparki.lv/wp-content/uploads/2022/11/Dongle-4G-titulbilde.jpg</image>
+	<category_full> PAPILDIEKĀRTAS</category_full>
+	<category_link>https://www.saulesparki.lv/veikals/papildiekartas/</category_link>
+	<brand>Growatt</brand>
+	<model><![CDATA[DA01A_01]]></model> 
+	<color>White</color> 
+	<in_stock>1</in_stock>
+	<used>0</used>
+	<adult>no</adult>
+	</item>
+
+
+	<!-- EA03H_02-->
+<item>
+	<name>AC strāvas viedais skaitītājs, Huawei, 3 fāzes, DTSU666-H 100A
+</name>
+	<link>https://www.saulesparki.lv/product/ac-stravas-viedais-skaititajs-huawei-3-fazes-dtsu666-h-100a/</link>
+	<price>174,00</price>
+	<image>https://www.saulesparki.lv/wp-content/uploads/2022/11/Capture_7.jpg</image>
+	<category_full> PAPILDIEKĀRTAS</category_full>
+	<category_link>https://www.saulesparki.lv/veikals/papildiekartas/</category_link>
+	<brand>Growatt</brand>
+	<model><![CDATA[EA03H_02]]></model> 
+	<color>White</color> 
+	<in_stock>1</in_stock>
+	<used>0</used>
+	<adult>no</adult>
+	</item>
+
+		<!-- DA02A_01-->
+<item>
+	<name>Monitorēšanas iekārta, Huawei, Smart Logger 3000A01 without MBUS
+</name>
+	<link>https://www.saulesparki.lv/product/monitoresanas-iekarta-huawei-smart-logger-3000a01-without-mbus/</link>
+	<price>641,30</price>
+	<image>https://www.saulesparki.lv/wp-content/uploads/2022/11/Smart-Logger-3000A01-without-MBUS.jpg</image>
+	<category_full> PAPILDIEKĀRTAS</category_full>
+	<category_link>https://www.saulesparki.lv/veikals/papildiekartas/</category_link>
+	<brand>Growatt</brand>
+	<model><![CDATA[DA02A_01]]></model> 
+	<color>White</color> 
+	<in_stock>1</in_stock>
+	<used>0</used>
+	<adult>no</adult>
+	</item>
+
+	<!-- PAPILDMATERIĀLI -->
+<!-- EA03F_01 -->
+	<item>
+	<name>Gofrēta caurule ar auklu Ø25,750N melna UV Pipelife 500525
+</name>
+	<link>https://www.saulesparki.lv/product/gofreta-caurule-pipelife-ar-auklu-25-750n-melna-uv-500525/</link>
+	<price>0,97 </price>
+	<image>https://www.saulesparki.lv/wp-content/uploads/2022/11/Pipelife_500525.jpg</image>
+	<category_full> PAPILDIEKĀRTAS</category_full>
+	<category_link>https://www.saulesparki.lv/veikals/papildmateriali/</category_link>
+	<brand>Pipelife</brand>
+	<model><![CDATA[EA03F_01]]></model> 
+	<color>White</color> 
+	<in_stock>1</in_stock>
+	<used>0</used>
+	<adult>no</adult>
+	</item>
+
+	<!-- EA03F_02 -->
+	<item>
+	<name>Gofrēta caurule ar auklu Ø32,750N melna UV Pipelife 500532
+</name>
+	<link>https://www.saulesparki.lv/product/gofreta-caurule-pipelife-ar-auklu-32-750n-melna-uv-500532/</link>
+	<price>1,39</price>
+	<image>https://www.saulesparki.lv/wp-content/uploads/2022/11/Pipelife_500525.jpg</image>
+	<category_full> PAPILDIEKĀRTAS</category_full>
+	<category_link>https://www.saulesparki.lv/veikals/papildmateriali/</category_link>
+	<brand>Pipelife</brand>
+	<model><![CDATA[EA03F_02]]></model> 
+	<color>White</color> 
+	<in_stock>1</in_stock>
+	<used>0</used>
+	<adult>no</adult>
+	</item>
+
+	<!-- AKUMULATORI  -->
+	<!-- EA03I-01 -->
+		<item>
+	<name>
+Elektroenerģijas apgādes modulis, Huawei, 1 fāze, Luna 2000 Back up
+</name>
+	<link>https://www.saulesparki.lv/product/elektroenergijas-apgades-modulis-huawei-1-faze-luna-2000-back-up/</link>
+	<price>836,80</price>
+	<image>https://www.saulesparki.lv/wp-content/uploads/2022/11/huawei_luna2000_back_up_box_for_three_phase_1_8b44.png</image>
+	<category_full> AKUMULATORI</category_full>
+	<category_link>hhttps://www.saulesparki.lv/veikals/akumulatori/</category_link>
+	<brand>Huawei</brand>
+	<model><![CDATA[EA03I-01]]></model> 
+	<color>White</color> 
+	<in_stock>0</in_stock>
+	<used>0</used>
+	<adult>no</adult>
+	</item>
+
+<!-- EA03I-02 -->
+			<item>
+	<name>
+Elektroenerģijas apgādes modulis, Huawei, 3 fāzes, Luna 2000 Back up
+</name>
+	<link>https://www.saulesparki.lv/product/elektroenergijas-apgades-modulis-huawei-3-fazes-luna-2000-back-up/</link>
+	<price>878,71</price>
+	<image>https://www.saulesparki.lv/wp-content/uploads/2022/11/huawei_luna2000_back_up_box_for_three_phase_1_8b44.png</image>
+	<category_full> AKUMULATORI</category_full>
+	<category_link>hhttps://www.saulesparki.lv/veikals/akumulatori/</category_link>
+	<brand>Huawei</brand>
+	<model><![CDATA[EA03I-01]]></model> 
+	<color>White</color> 
+	<in_stock>1</in_stock>
+	<used>0</used>
+	<adult>no</adult>
+	</item>
+	<!-- EA04B_01 -->
+				<item>
+	<name>
+Akumulatoru vadības modulis, Huawei, LUNA2000-5KW-C0
+</name>
+	<link>https://www.saulesparki.lv/product/akumulatoru-vadibas-modulis-huawei-luna2000-5kw-c0/</link>
+	<price>1.077,43</price>
+	<image>https://www.saulesparki.lv/wp-content/uploads/2022/11/huawei_luna2000_back_up_box_for_three_phase_1_8b44.png</image>
+	<category_full> AKUMULATORI</category_full>
+	<category_link>hhttps://www.saulesparki.lv/veikals/akumulatori/</category_link>
+	<brand>Huawei</brand>
+	<model><![CDATA[EA04B_01]]></model> 
+	<color>White</color> 
+	<in_stock>1</in_stock>
+	<used>0</used>
+	<adult>no</adult>
+	</item>
+
+<!--  EA04A_01 -->
+<!-- https://www.saulesparki.lv/wp-content/uploads/2022/11/5kwh-module-luna2000-5-e0-for-extension-huawei-lithium-battery.jpg -->
+					<item>
+	<name>
+Elektroenerģijas akumulators, Huawei, li-ion, LUNA2000-5-E0, 5kw
+</name>
+	<link>https://www.saulesparki.lv/product/elektroenergijas-akumulators-huawei-li-ion-luna2000-5-e0-5kw/</link>
+	<price>3.020,99</price>
+	<image>https://www.saulesparki.lv/wp-content/uploads/2022/11/5kwh-module-luna2000-5-e0-for-extension-huawei-lithium-battery.jpg</image>
+	<category_full> AKUMULATORI</category_full>
+	<category_link>https://www.saulesparki.lv/veikals/akumulatori/</category_link>
+	<brand>Huawei</brand>
+	<model><![CDATA[EA04A_01]]></model> 
+	<color>White</color> 
+	<in_stock>1</in_stock>
+	<used>0</used>
+	<adult>no</adult>
+	</item>
+
+	<!-- KABEĹI UN STIPRINĀJUMI -->
+	<!-- EA02C_01 -->
+					<item>
+	<name>
+Solārais kabelis Top Cable H1Z2Z2-K, 1x4mm, CCA,melns,NR
+</name>
+	<link>https://www.saulesparki.lv/product/solarais-kabelis-top-cable-h1z2z2-k-1x4mm-ccamelnsnr/</link>
+	<price>1</price>
+	<image>https://www.saulesparki.lv/wp-content/uploads/2022/11/Top-Cable-H1Z2Z2-K-black.jpg</image>
+	<category_full> KABEĻI UN SAVIENOJUMI</category_full>
+	<category_link>https://www.saulesparki.lv/veikals/kabeli-un-savienojumi/</category_link>
+	<brand>CCA</brand>
+	<model><![CDATA[EA02C_01]]></model> 
+	<color>Black</color> 
+	<in_stock>1</in_stock>
+	<used>0</used>
+	<adult>no</adult>
+	</item>
+
+<!-- EA02C_07 -->
+	<item>
+	<name>
+Solārais kabelis Top Cable H1Z2Z2-K, 1x4mm, CCA, sarkans, RR
+</name>
+	<link>https://www.saulesparki.lv/product/solarais-kabelis-top-cable-h1z2z2-k-1x4mm-cca-sarkans-rr/</link>
+	<price>1</price>
+	<image>https://www.saulesparki.lv/wp-content/uploads/2022/11/Top-Cable-H1Z2Z2-K-red-1.jpg</image>
+	<category_full> KABEĻI UN SAVIENOJUMI</category_full>
+	<category_link>https://www.saulesparki.lv/veikals/kabeli-un-savienojumi/</category_link>
+	<brand>CCA</brand>
+	<model><![CDATA[EA02C_07]]></model> 
+	<color>Red</color> 
+	<in_stock>1</in_stock>
+	<used>0</used>
+	<adult>no</adult>
+	</item>
+<!-- EA02C_02 -->
+		<item>
+	<name>
+Solārais kabelis Top Cable H1Z2Z2-K, 1x6mm, CCA, melns,NR</name>
+	<link>https://www.saulesparki.lv/product/solarais-kabelis-top-cable-h1z2z2-k-1x6mm-cca-melnsnr/</link>
+	<price>1,39</price>
+	<image>https://www.saulesparki.lv/wp-content/uploads/2022/11/Top-Cable-H1Z2Z2-K-black.jpg</image>
+	<category_full> KABEĻI UN SAVIENOJUMI</category_full>
+	<category_link>https://www.saulesparki.lv/veikals/kabeli-un-savienojumi/</category_link>
+	<brand>CCA</brand>
+	<model><![CDATA[EA02C_02]]></model> 
+	<color>Black</color> 
+	<in_stock>1</in_stock>
+	<used>0</used>
+	<adult>no</adult>
+	</item>
+
+
+		<item>
+	<name>
+Solārais kabelis Top Cable H1Z2Z2-K,1x6mm, CCA, sarkans,RR
+</name>
+	<link>https://www.saulesparki.lv/product/solarais-kabelis-top-cable-h1z2z2-k1x6mm-cca-sarkansrr/</link>
+	<price>1,39</price>
+	<image>https://www.saulesparki.lv/wp-content/uploads/2022/11/Top-Cable-H1Z2Z2-K-red-1.jpg</image>
+	<category_full> KABEĻI UN SAVIENOJUMI</category_full>
+	<category_link>https://www.saulesparki.lv/veikals/kabeli-un-savienojumi/</category_link>
+	<brand>CCA</brand>
+	<model><![CDATA[EA02C_08]]></model> 
+	<color>Red</color> 
+	<in_stock>1</in_stock>
+	<used>0</used>
+	<adult>no</adult>
+	</item>
+
+
+		<item>
+		<!-- EA02C_13 -->
+	<name>
+Solāro vadu savienojums, Cabur, pluss savienojums, 1500V, 35A, 4-6mm2, KX04VM4060N
+</name>
+	<link>https://www.saulesparki.lv/product/solaro-vadu-savienojums-cabur-pluss-savienojums-1500v-35a-4-6mm2-kx04vm4060n/</link>
+	<price>1,96</price>
+	<image>https://www.saulesparki.lv/wp-content/uploads/2022/11/402240_24.jpg</image>
+	<category_full> KABEĻI UN SAVIENOJUMI</category_full>
+	<category_link>https://www.saulesparki.lv/veikals/kabeli-un-savienojumi/</category_link>
+	<brand>Cabur</brand>
+	<model><![CDATA[EA02C_13]]></model> 
+	<color>Black</color> 
+	<in_stock>1</in_stock>
+	<used>0</used>
+	<adult>no</adult>
+	</item>
+
+
+
+		<item>
+		<!-- EA02C_14-->
+	<name>
+Solāro vadu savienojums, Cabur, mīnuss savienojums, 1500V, 35A, 4-6mm2, KX04VM4060N
+</name>
+	<link>https://www.saulesparki.lv/product/solaro-vadu-savienojums-cabur-minus-savienojums-1500v-35a-4-6mm2-kx04vm4060n/</link>
+	<price>1,96</price>
+	<image>https://www.saulesparki.lv/wp-content/uploads/2022/11/Cabur_connector_1.jpg</image>
+	<category_full> KABEĻI UN SAVIENOJUMI</category_full>
+	<category_link>https://www.saulesparki.lv/veikals/kabeli-un-savienojumi/</category_link>
+	<brand>Cabur</brand>
+	<model><![CDATA[EA02C_14]]></model> 
+	<color>Black</color> 
+	<in_stock>1</in_stock>
+	<used>0</used>
+	<adult>no</adult>
+	</item>
+
+	<!-- SAULES PANĒĻI -->
+<!-- PV01A_12 -->
+
+		<item>
+		<!-- PV01A_12-->
+	<name>
+Saules panelis, Risen, RSM40-8-400MB, Mono PERC, 400W, AllBlack
+</name>
+	<link>https://www.saulesparki.lv/product/saules-panelis-risen-rsm40-8-400mb-mono-perc-400w-allblack/</link>
+	<price>169</price>
+	<image>https://www.saulesparki.lv/wp-content/uploads/2023/04/RSM40-8-400MB.jpg</image>
+	<category_full>SAULES PANEĻI</category_full>
+	<category_link>https://www.saulesparki.lv/veikals/saules-paneli/</category_link>
+	<brand>Risen</brand>
+	<model><![CDATA[PV01A_12]]></model> 
+	<color>Black</color> 
+	<in_stock>1</in_stock>
+	<used>0</used>
+	<adult>no</adult>
+	</item>
+
+			<item>
+		<!--PV01A_13 -->
+	<name>
+Saules panelis, Risen, RSM40-8-415MB, Mono PERC, 415W, Black Frame
+</name>
+	<link>https://www.saulesparki.lv/product/saules-panelis-risen-rsm40-8-415mb-mono-perc-415w-black-frame/</link>
+	<price>175,00</price>
+	<image>https://www.saulesparki.lv/wp-content/uploads/2023/04/RSM40-8-415MB.jpg</image>
+	<category_full>SAULES PANEĻI</category_full>
+	<category_link>https://www.saulesparki.lv/veikals/saules-paneli/</category_link>
+	<brand>Risen</brand>
+	<model><![CDATA[PV01A_13]]></model> 
+	<color>Black</color> 
+	<in_stock>1</in_stock>
+	<used>0</used>
+	<adult>no</adult>
+	</item>
+
+
+			<item>
+		<!--PV01A_11 -->
+	<name>
+Saules panelis, JaSolar, JAM72S20-465/MR, Mono PERC, 465W, Black frame
+</name>
+	<link>https://www.saulesparki.lv/product/saules-panelis-jasolar-jam72s20-465-mr-mono-perc-465w-black-frame/</link>
+	<price>198,90</price>
+	<image>https://www.saulesparki.lv/wp-content/uploads/2023/04/JAM72S20-46.MR_.jpg</image>
+	<category_full>SAULES PANEĻI</category_full>
+	<category_link>https://www.saulesparki.lv/veikals/saules-paneli/</category_link>
+	<brand>JaSolar,</brand>
+	<model><![CDATA[PV01A_11]]></model> 
+	<color>Black</color> 
+	<in_stock>1</in_stock>
+	<used>0</used>
+	<adult>no</adult>
+	</item>
+
+
+	
+			<item>
+		<!--PV01A_09 -->
+	<name>
+Saules panelis, JaSolar, JAM54S31-400/MR, Mono PERC, 400W, AllBlack
+</name>
+	<link>https://www.saulesparki.lv/product/saules-panelis-jasolar-jam54s31-400-mr-mono-perc-400w-allblack/</link>
+	<price>209,00</price>
+	<image>https://www.saulesparki.lv/wp-content/uploads/2023/04/JA_Solar_JAM54S31_395MR_395_01.jpg</image>
+	<category_full>SAULES PANEĻI</category_full>
+	<category_link>https://www.saulesparki.lv/veikals/saules-paneli/</category_link>
+	<brand>Risen</brand>
+	<model><![CDATA[PV01A_09]]></model> 
+	<color>Black</color> 
+	<in_stock>1</in_stock>
+	<used>0</used>
+	<adult>no</adult>
+	</item>
+
+	
+			<item>
+		<!--PV01A_07-->
+	<name>
+Saules panelis, JaSolar, JAM72S20-465/MR, Mono PERC, 465W, Black frame
+</name>
+	<link>https://www.saulesparki.lv/product/saules-panelis-jasolar-jam54s31-395-mr-mono-perc-395w-allblack/</link>
+	<price>199,00</price>
+	<image>https://www.saulesparki.lv/wp-content/uploads/2022/11/JAM54S31-MR-Front-002-scaled.jpg</image>
+	<category_full>SAULES PANEĻI</category_full>
+	<category_link>https://www.saulesparki.lv/veikals/saules-paneli/</category_link>
+	<brand>JaSolar</brand>
+	<model><![CDATA[PV01A_07]]></model> 
+	<color>Black</color> 
+	<in_stock>1</in_stock>
+	<used>0</used>
+	<adult>no</adult>
+	</item>
+
+
+				<item>
+		<!--PV01A_05 -->
+		
+	<name>
+Saules panelis JaSolar 455W JAM72S20-455/MR sudraba
+</name>
+	<link>https://www.saulesparki.lv/product/jasolar-455w-jam72s20-455-mr-sudraba/</link>
+	<price>215,00</price>
+	<image>https://www.saulesparki.lv/wp-content/uploads/2022/11/JAM72S20%EF%80%A2MR-front-002-scaled.jpg</image>
+	<category_full>SAULES PANEĻI</category_full>
+	<category_link>https://www.saulesparki.lv/veikals/saules-paneli/</category_link>
+	<brand>JA Solar</brand>
+	<model><![CDATA[PV01A_05]]></model> 
+	<color>Black</color> 
+	<in_stock>1</in_stock>
+	<used>0</used>
+	<adult>no</adult>
+	</item>
+
+
+				<item>
+		<!-- PV01A_10-->
+		
+	<name>
+Saules panelis, JaSolar, JAM72S20-455/MR, Mono PERC, 455W, Black frame
+</name>
+	<link>https://www.saulesparki.lv/product/saules-panelis-jasolar-jam72s20-455-mr-mono-perc-455w-black-frame/</link>
+	<price>215,00</price>
+	<image>https://www.saulesparki.lv/wp-content/uploads/2023/04/JAM72S20-4551-2.jpg</image>
+	<category_full>SAULES PANEĻI</category_full>
+	<category_link>https://www.saulesparki.lv/veikals/saules-paneli/</category_link>
+	<brand>JA Solar</brand>
+	<model><![CDATA[PV01A_10]]></model> 
+	<color>Black</color> 
+	<in_stock>1</in_stock>
+	<used>0</used>
+	<adult>no</adult>
+	</item>
+
+
+
+				<item>
+		<!-- PV01A_14] -->
+		
+	<name>
+Saules panelis, Risen, RSM110-8-545M, Mono PERC, 545W, sudraba
+</name>
+	<link>https://www.saulesparki.lv/product/saules-panelis-risen-rsm110-8-545m-mono-perc-545w-sudraba/</link>
+	<price>215,00</price>
+	<image>https://www.saulesparki.lv/wp-content/uploads/2023/04/RSM110-8-545M.jpg</image>
+	<category_full>SAULES PANEĻI</category_full>
+	<category_link>https://www.saulesparki.lv/veikals/saules-paneli/</category_link>
+	<brand>Risen</brand>
+	<model><![CDATA[PV01A_14]]></model> 
+	<color>Black</color> 
+	<in_stock>0</in_stock>
+	<used>0</used>
+	<adult>no</adult>
+	</item>
+
+
+	
+				<item>
+		<!-- PPV01A_15-->
+		
+	<name>
+Saules panelis, Risen, RSM132-8-660M, Mono PERC, 660W, sudraba
+</name>
+	<link>https://www.saulesparki.lv/product/saules-panelis-risen-rsm132-8-660m-mono-perc-660w-sudraba/</link>
+	<price>276,00</price>
+	<image>https://www.saulesparki.lv/wp-content/uploads/2023/04/RSM132-8-660M.jpg</image>
+	<category_full>SAULES PANEĻI</category_full>
+	<category_link>https://www.saulesparki.lv/veikals/saules-paneli/</category_link>
+	<brand>Risen</brand>
+	<model><![CDATA[PV01A_15]]></model> 
+	<color>Black</color> 
+	<in_stock>0</in_stock>
+	<used>0</used>
+	<adult>no</adult>
+	</item>
+
+	<!-- STIPRINĀJUMI -->
+
+	</root>
